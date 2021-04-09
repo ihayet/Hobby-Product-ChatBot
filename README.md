@@ -14,5 +14,18 @@
  - Amazon (AU) Dataset:
      https://data.world/promptcloud/amazon-australia-product-listing 
 
+## Tools Used
+
+ - Attempt 1 (Cloud)
+   - Amazon Lex
+   - AWS Lambda
+   - AWS S3
+   - AWS IAM
+
+ - Attempt 2 (Local)
+   - Python
+   - Gensim Word2Vec
+   - Chatterbot
+
  
 Please refer to the "Presentation/AdvancedTopic_IshrakHayet.pptx" file for details.
