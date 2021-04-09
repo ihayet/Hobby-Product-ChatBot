@@ -26,6 +26,9 @@
    - Python
    - Gensim Word2Vec
    - Chatterbot
+   
+## Project Screenshots
 
+![alt text](https://github.com/ihayet/Hobby-Product-ChatBot/blob/master/Presentation/Python_3.PNG?raw=true)
  
 Please refer to the "Presentation/AdvancedTopic_IshrakHayet.pptx" file for details.
