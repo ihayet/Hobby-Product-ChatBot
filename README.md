@@ -6,7 +6,7 @@
 
  - Tells the user about product recommendations based on the hobby
  
-## Datasets Used
+### Datasets Used
 
  - Hobby Dataset:
      https://www.kaggle.com/muhadel/hobbies 
@@ -14,7 +14,7 @@
  - Amazon (AU) Dataset:
      https://data.world/promptcloud/amazon-australia-product-listing 
 
-## Tools Used
+### Tools Used
 
  - Attempt 1 (Cloud)
    - Amazon Lex
@@ -27,8 +27,8 @@
    - Gensim Word2Vec
    - Chatterbot
    
-## Project Screenshots
+### Project Screenshot
 
-![alt text](https://github.com/ihayet/Hobby-Product-ChatBot/blob/master/Presentation/Python_3.PNG?raw=true)
+![ChatBot in the Works](https://github.com/ihayet/Hobby-Product-ChatBot/blob/master/Presentation/Python_3.PNG?raw=true)
  
 Please refer to the "Presentation/AdvancedTopic_IshrakHayet.pptx" file for details.
